@@ -14,5 +14,9 @@
   - #### Rollup
   - #### NodeJS
   - #### TypeScript
+  - #### Canvas
+    - ##### Fabric.js
+    - ##### Three.js
 - ### Python
 - ### Php
+- ### C#
