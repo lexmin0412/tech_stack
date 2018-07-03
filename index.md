@@ -8,15 +8,15 @@
   - #### Redux
   - #### MobX
   - #### Axios
-  - #### Echarts
   - #### Webpack
   - #### Parcel
   - #### Rollup
   - #### NodeJS
   - #### TypeScript
   - #### Canvas
-    - ##### Fabric.js
+    - ##### Echarts.js
     - ##### Three.js
+    - ##### Fabric.js
 - ### Python
 - ### Php
 - ### C#
