@@ -1,25 +1,39 @@
 ### Things To Learn
 
 - ### JavaScript
+  - #### ES6/7/8
+    - ##### async/await
+    - ##### generator
   - #### Vue
     - ##### VueX
   - #### React
     - ##### React Native
-    - ##### React Router
-  - #### Angular
+    - ##### React Router 
+  - #### NodeJS
+    - ##### TCP/IP
+    - ##### HTTP
+    - ##### Koa/Express
+    - ##### 服务端渲染
+    - ##### Nginx
   - #### MiniProgram
+  - #### Angular
   - #### Redux
+    - ##### Dva
   - #### MobX
   - #### Axios
   - #### Webpack
   - #### Parcel
   - #### Rollup
-  - #### NodeJS
   - #### TypeScript
   - #### Canvas
     - ##### Echarts.js
     - ##### Three.js
     - ##### Fabric.js
+  - #### web安全
+    - ##### CSRF漏洞
+    - ##### XSS漏洞
+    - ##### SQL注入
+    - ##### Cookie安全策略
 - ### Dart
   - #### Flutter
 - ### Python
