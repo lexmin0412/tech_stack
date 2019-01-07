@@ -2,7 +2,10 @@
 
 - ### JavaScript
   - #### Vue
+    - ##### VueX
   - #### React
+    - ##### React Native
+    - ##### React Router
   - #### Angular
   - #### MiniProgram
   - #### Redux
@@ -17,6 +20,8 @@
     - ##### Echarts.js
     - ##### Three.js
     - ##### Fabric.js
+- ### Dart
+  - #### Flutter
 - ### Python
 - ### Php
 - ### C#
