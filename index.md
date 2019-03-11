@@ -16,6 +16,7 @@
     - ##### 服务端渲染
     - ##### Nginx
   - #### MiniProgram
+  - #### Taro
   - #### Angular
   - #### Redux
     - ##### Dva
