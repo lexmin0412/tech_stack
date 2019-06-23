@@ -1,6 +1,41 @@
 # web前端技术栈
 
-## 框架解决方案
+## 基础工程
+
+### html
+
+### css
+
+- 预编译工具
+
+	- less
+	- scss
+	- postcss
+
+- css3
+
+	- 动画
+	- 计算属性
+
+### javascript
+
+- ES6/next
+
+	- promise
+	- generator
+	- async/await
+
+### typescript
+
+## 开发语言
+
+### javascript
+
+### dart
+
+### python
+
+## 框架&解决方案
 
 ### React
 
@@ -14,14 +49,6 @@
 - vuex
 
 ### Angular
-
-## 开发语言
-
-### javascript
-
-### dart
-
-### python
 
 ## 多端统一方案
 
@@ -49,23 +76,13 @@
 
 ### mobx
 
-## 请求
-
-### ajax
-
-- axios
-
-## 开发工具
-
-### vscode
-
 ## 可视化
 
 ### canvas
 
 - antv生态
 
-	- f2 - 移动端可视化图表解决方案
+	- f2
 	- g2
 	- g6
 
@@ -90,43 +107,8 @@
 ### 规范点
 
 - 代码缩进
-
-## 代码管理/版本控制
-
-### git
-
-- 平台
-
-	- github
-	- gitlab
-
-### svn
-
-## 基础工程
-
-### html
-
-### css
-
-- 预编译工具
-
-	- less
-	- scss
-	- postcss
-
-- css3
-
-	- transform/transitoin
-
-### javascript
-
-- ES6/next
-
-	- promise
-	- generator
-	- async/await
-
-### typescript
+- 注释规范
+- 单文件行数
 
 ## 开发平台
 
@@ -138,21 +120,42 @@
 
 ### 小程序
 
-## web安全
+## 请求
 
-### csrf漏洞
+### 库
 
-### xss漏洞
+- axios
 
-### sql注入
+### mock
 
-### cookie安全策略
+- easy-mock
+
+## 开发工具
+
+### vscode
+
+## 计算机基础
+
+### http
+
+### tcp/ip
 
 ## 数据持久化
 
 ### localStorage/sessionStorage
 
 ### indexedDB
+
+## 代码管理/版本控制
+
+### git
+
+- 平台
+
+	- github
+	- gitlab
+
+### svn
 
 ## 网页服务器
 
@@ -172,10 +175,18 @@
 - sql
 - mongodb
 
-## 计算机基础
+### 缓存
 
-### http
+- redis
 
-### tcp/ip
+## web安全
+
+### csrf漏洞
+
+### xss漏洞
+
+### sql注入
+
+### cookie安全策略
 
 *XMind: ZEN - Trial Version*
